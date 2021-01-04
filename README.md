@@ -49,80 +49,44 @@ BI Developer
 * Working on visual performance improvement to meet the standard using bookmarks and different methods to limit the amount of data labeled on visual.
 * Connecting and get data from different sources like SQL Server, Web,Analysis Service, Flat File and other for further analysis.
 * Export data in Excel and validate metrics applied.
-
 ## Finot Engineering & Trading PLC | Addis Ababa, Ethiopia
 ## SQL/ETL Developer
 ## 07/2016 - 07/2017
 * Strong knowledge of data warehousing methodology and concepts,including star schema, snowflake, ETL processes dimensional modeling
   and reporting tools.
 * Implemented incremental data load in data warehouse using scripts and SCD.
-	• Perform analytical tasks on integration service including creating
-	measures, calculated columns, hierarchy, define relationship defined role
-	and perspectives.
-	• Design and write various T-SQL queries including stored procedures,
-	subqueries, join merging and others.
-	• Participated in a project to design develop and implement data warehouse.
-	• Experienced in working on temporary tables including Common
-	Expression table and table variables.
-	• Designing and coding the data warehousing system to desired company
-	specifications.
-	• Conducting preliminary testing of the data warehousing environment
-	before data is extracted.
-	• Extracting company data and transferring it into the new warehousing
-	environment.
-	• Testing the new storage system once all the data has been transferred.
-	• Troubleshooting any issues that may arise when the job (such as SSIS
-	package) runs
- 
-Cyber Soft| Addis Ababa, Ethiopia	• Enhance high quality database solutions based on the end user’s
-SQL Developer	requirements and ensure their stability, reliability, and performance.
-07/2014 - 07/2016.	• Write SQL queries to store source, retrieve data and analyze existing SQL
-queries for performance improvements.
-• Ensuring data security and troubleshooting issues related to database
-
-performance and provide corrective measures.
-• Design, develop and maintain relational database and data modeling.
-
-• Gathered business requirements and converted it into SQL stored
-procedures for database specific projects.
-
-• Extensively worked on creating SSIS packages and have used for each loop
-containers, sequence container for developing processes and loaded that
-are using different transformations such as derived column, conditions
-split, Aggregate, Merge, Join, Data conversion and Union all.
-• Responsible for Creating schema, tables, clustered/Non-clustered index,
-
-unique/check constraints, and Defaults.
-• Designed and developed ETL package for extracting and loading the data
-into appropriate tables in a required database using SQL Server integration
-service (SSIS).
-• Working with development team on review requirement analysis design
-
-and architecture and give feedback.
-• Design and create database table various T-SQL queries including Stored
-
-procedures, Functions, Subqueries, Join, and Views.
-• Created SSIS package to export and import data from CSV Files, Text files
-and Excel spreadsheets.
-
-• Designed, developed, modified, and enhanced the database structures and
-database objects.
-
-• Created, developed, and managed schemas objects such as tables, views
-indexes, stored procedures, and triggers and maintaining referential
-
-integrity.
-
-Education and Training
-
-
+* Perform analytical tasks on integration service including creating measures, calculated columns, hierarchy, define relationship defined role and perspectives.
+* Design and write various T-SQL queries including stored procedures,subqueries, join merging and others.
+* Participated in a project to design develop and implement data warehouse.
+* Experienced in working on temporary tables including Common Expression table and table variables.
+* Designing and coding the data warehousing system to desired company specifications.
+* Conducting preliminary testing of the data warehousing environment before data is extracted.
+* Extracting company data and transferring it into the new warehousing environment.
+* Testing the new storage system once all the data has been transferred.
+* Troubleshooting any issues that may arise when the job (such as SSIS package) runs
+## Cyber Soft| Addis Ababa, Ethiopia
+## SQL Developer
+## 07/2014 - 07/2016
+* Enhance high quality database solutions based on the end user’s requirements and ensure their stability, reliability, and performance.
+* Write SQL queries to store source, retrieve data and analyze existing SQL queries for performance improvements.
+* Ensuring data security and troubleshooting issues related to database.
+* Design, develop and maintain relational database and data modeling.
+* Gathered business requirements and converted it into SQL stored procedures for database specific projects.
+* Extensively worked on creating SSIS packages and have used for each loop containers,sequence container for developing processes and loaded that 
+  are using different transformations such as derived column, conditions split, Aggregate, Merge, Join, Data conversion and Union all.
+* Responsible for Creating schema, tables, clustered/Non-clustered index,unique/check constraints, and Defaults.
+* Designed and developed ETL package for extracting and loading the data into appropriate tables in a required database using SQL server integration service (SSIS).
+* Working with development team on review requirement analysis design and architecture and give feedback.
+* Design and create database table various T-SQL queries including Stored procedures, Functions, Subqueries, Join, and Views.
+* Created SSIS package to export and import data from CSV Files, Text files and Excel spreadsheets.
+* Designed, developed, modified, and enhanced the database structures and database objects.
+* Created, developed, and managed schemas objects such as tables, views indexes, stored procedures, and triggers and maintaining referential
+indexes, stored procedures, and triggers and maintaining referential integrity.
+# Education and Training
 Addis Ababa University | Ethiopia
-Bachelor of Science Major in Construction & Management
-Minor in Computer Science
-
+## Bachelor of Science Major in Construction & Management Minor in Computer Science
 07/2014
 Humanitarian Aid Studies Center | Spain
-
 Masters International Cooperation & Humanitarian Aid
 02/2019
 
