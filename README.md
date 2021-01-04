@@ -1,5 +1,6 @@
-## Raki Meku 
-## 206-866-3434
+##                                          Rake Meku
+# SQL Developer, Power BI Developer, BI Developer and ETL Developer 
+## 206-866-3434|Raki.Meku19@gmail.com|Burien,WA 98168
 ## Professional Summary
 * 5+ years of in-depth experience in BI, Database developer and Power BI developer
 * Meticulous SQL/ETL Developer with expertise in processing SQL Database Development, Data Warehousing, Reporting and BI solutions using SQL Server 2012-2017 
@@ -28,15 +29,13 @@ Collaborative and team-oriented with first-rate oral and written communication, 
 * Experience in Agile working environments
 * Administrative support
 ## Professional Experience
-Hahu Inc| Seattle, WA
-BI Developer
-1/2018-Current
+### BI Developer
+**Hahu Inc| Seattle, WA** | **01/2018-Current**
 * Understanding business requirements, develop SQL script based on the need, building analysis service reports, models by developing visual
   illustration using Power BI desktop.                                                                           
 * Used index to enhance the performance of queries and enhanced stored procedures.
 * Creating and managing schemas objects such as table, views, indexes stored procedures, function, and maintaining referential integrity.
 * Building analytics environment, implementation information solutions,and improving processes flow in the organization by proposing IT solution.
-	solutions.
 * Able to connect data sources, importing data, transforming, and loading data for business intelligence.
 * Creating measure and calculated columns using DAX formula as per business requirements.
 * Expertise in using advanced level calculation on the data sets.
@@ -49,9 +48,8 @@ BI Developer
 * Working on visual performance improvement to meet the standard using bookmarks and different methods to limit the amount of data labeled on visual.
 * Connecting and get data from different sources like SQL Server, Web,Analysis Service, Flat File and other for further analysis.
 * Export data in Excel and validate metrics applied.
-## Finot Engineering & Trading PLC | Addis Ababa, Ethiopia
-## SQL/ETL Developer
-## 07/2016 - 07/2017
+### SQL/ETL Developer
+**Finot Engineering & Trading PLC | Addis Ababa,EThiopia** | **07/2016-07/2017**
 * Strong knowledge of data warehousing methodology and concepts,including star schema, snowflake, ETL processes dimensional modeling
   and reporting tools.
 * Implemented incremental data load in data warehouse using scripts and SCD.
@@ -64,9 +62,8 @@ BI Developer
 * Extracting company data and transferring it into the new warehousing environment.
 * Testing the new storage system once all the data has been transferred.
 * Troubleshooting any issues that may arise when the job (such as SSIS package) runs
-## Cyber Soft| Addis Ababa, Ethiopia
-## SQL Developer
-## 07/2014 - 07/2016
+### SQL Developer
+**Cyber Soft| Addis Ababa,EThiopia** | **07/2014-07/2016**
 * Enhance high quality database solutions based on the end user’s requirements and ensure their stability, reliability, and performance.
 * Write SQL queries to store source, retrieve data and analyze existing SQL queries for performance improvements.
 * Ensuring data security and troubleshooting issues related to database.
@@ -82,19 +79,13 @@ BI Developer
 * Designed, developed, modified, and enhanced the database structures and database objects.
 * Created, developed, and managed schemas objects such as tables, views indexes, stored procedures, and triggers and maintaining referential
 indexes, stored procedures, and triggers and maintaining referential integrity.
-# Education and Training
-Addis Ababa University | Ethiopia
-## Bachelor of Science Major in Construction & Management Minor in Computer Science
-07/2014
-Humanitarian Aid Studies Center | Spain
-Masters International Cooperation & Humanitarian Aid
-02/2019
-
-Certificate CRR Global| European Mentoring & Coaching Council
-Certificate of Relationship System Intelligence at Work
-10/2018
-Center for Creative Leadership | Brussels
-Lead for Success
- 
-
-07/2017
+## Education and Training  
+### Masters Iternational Coperation & Humanitarian Aid | 
+**02/2019**
+### Bachelor of Science in Computer Science
+**Addis Ababa, Ethiopia** | **07/2014**
+### Certificate of Relationship System Intelligence at Work
+**CRR Global| European Mentoring & Coaching Council** | **10/2018**
+### Lead for Success
+**Center for Creative Leadership** | **Brussels** | **07/2017**
+### US Visa Status: Green Card Holder
